@@ -1,4 +1,4 @@
-# HTML-and-CSS-BBC-Newspage-Clone
+# HTML-and-CSS-DIGITAL-ART-GALLERY-WEBSITE
 
 ## Description
 A simple HTML and CSS digital art gallery website with a clean, structured layout.
