@@ -1,7 +1,7 @@
 # HTML-and-CSS-BBC-Newspage-Clone
 
 ## Description
-A simple HTML and CSS clone of a BBC-style newspage with a clean, structured layout.
+A simple HTML and CSS digital art gallery website with a clean, structured layout.
 
 ## Live Preview
 Visit [Hidden Shadows Live Preview](https://html-and-css-digital-art-gallery-site.netlify.app/) to see the site in action.
